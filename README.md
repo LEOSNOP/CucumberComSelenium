@@ -1,12 +1,12 @@
 # CucumberComSelenium
 
--- objetivo aprender como mexer com selenium  
 
-desenvolvido com Cucumber e Selenium e maven 
-linguem Java
+Objetivo aprender como mexer com selenium  
 
+Desenvolvido com Cucumber e Selenium e maven 
+Linguem Java
 
--- testes em uma aplicação do curso 
+Os testes foram feitos em uma aplicação que o curso forneceu 
 
 link da aplicação: https://seubarriga.wcaquino.me/login
 
